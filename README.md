@@ -24,21 +24,23 @@ _ **Actionable Insights:** Ultimately, the findings will help the finance compan
 
 The project is based on a dataset comprising three key files:
 
-_ **application_data.csv:** Contains detailed information about the client at the time of their loan application.
+[Check Out the Documentation](https://drive.google.com/file/d/1kt6ZF1jQTn_YlIKYtZSnZeqUSxFU5zGR/view?usp=sharing)
 
-_ **previous_application.csv:** Includes historical loan application statuses (Approved, Cancelled, Refused, or Unused offer).
+- **application_data.csv:** Contains detailed information about the client at the time of their loan application.
 
-_ **columns_description.csv:** A data dictionary that provides context and meaning for each variable in the dataset.
+- **previous_application.csv:** Includes historical loan application statuses (Approved, Cancelled, Refused, or Unused offer).
+
+- **columns_description.csv:** A data dictionary that provides context and meaning for each variable in the dataset.
 
 
 # Methodology and Python Libraries
 
 The analysis is conducted using Python, leveraging libraries that are essential for data manipulation and visualization:
 
-_ **Pandas:** Used for data loading, cleaning, and manipulation. It helps in handling missing values, merging datasets, and structuring data for analysis.
-_ **NumPy:** Provides support for numerical operations, allowing efficient computation on large datasets.
-_ **Seaborn:** A statistical visualization library that aids in creating informative and attractive plots for exploring patterns and distributions.
-_ **Matplotlib:** The foundational plotting library that complements Seaborn by offering additional customization for visualizations.
+- **Pandas:** Used for data loading, cleaning, and manipulation. It helps in handling missing values, merging datasets, and structuring data for analysis.
+- **NumPy:** Provides support for numerical operations, allowing efficient computation on large datasets.
+- **Seaborn:** A statistical visualization library that aids in creating informative and attractive plots for exploring patterns and distributions.
+- **Matplotlib:** The foundational plotting library that complements Seaborn by offering additional customization for visualizations.
 
 
 # Exploratory Data Analysis (EDA) Approach
@@ -75,7 +77,8 @@ By effectively uncovering the hidden risks in loan applications, the project emp
 - **Strategic Decision-Making:** Guiding adjustments in loan policies, interest rates, and approval criteria based on empirical evidence.
 
 # Conclusion:
-  In essence, "Default Detective" transforms raw data into actionable intelligence, enabling companies to navigate the delicate balance between seizing business opportunities and minimizing financial risks through a systematic and insightful EDA approach using Python.
+- In essence, "Default Detective" transforms raw data into actionable intelligence, enabling companies to navigate the delicate balance between seizing business opportunities and 
+  minimizing financial risks through a systematic and insightful EDA approach using Python.
 
 
 
