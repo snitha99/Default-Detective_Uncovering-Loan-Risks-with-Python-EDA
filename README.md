@@ -26,9 +26,9 @@ The project is based on a dataset comprising three key files:
 
 [Check Out the Documentation](https://drive.google.com/file/d/1kt6ZF1jQTn_YlIKYtZSnZeqUSxFU5zGR/view?usp=sharing)
 
-- **application_data.csv:** Contains detailed information about the client at the time of their loan application.[Check Out the Documentation](https://drive.google.com/file/d/13i_G0fm9ffPo4gMKMqmyE6rMR4RoeY_h/view?usp=sharing)
+- **application_data.csv:** Contains detailed information about the client at the time of their loan application(122 columns, 3,07,511 rows).[Check Out the Documentation](https://drive.google.com/file/d/13i_G0fm9ffPo4gMKMqmyE6rMR4RoeY_h/view?usp=sharing)
 
-- **previous_application.csv:** Includes historical loan application statuses (Approved, Cancelled, Refused, or Unused offer).[Check Out the Documentation](https://drive.google.com/file/d/12QMftOLBkNuHwpjoxaJ2o52KtRii_y8N/view?usp=sharing)
+- **previous_application.csv:** Includes historical loan application statuses (Approved, Cancelled, Refused, or Unused offer)(37 columns, 10,48,575 rows).[Check Out the Documentation](https://drive.google.com/file/d/12QMftOLBkNuHwpjoxaJ2o52KtRii_y8N/view?usp=sharing)
 
 - **columns_description.csv:** A data dictionary that provides context and meaning for each variable in the dataset.[Check Out the Documentation](https://drive.google.com/file/d/12QMftOLBkNuHwpjoxaJ2o52KtRii_y8N/view?usp=sharing)
 
