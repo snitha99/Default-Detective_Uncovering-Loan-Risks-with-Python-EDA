@@ -13,11 +13,11 @@ Loan-providing companies often struggle with the risk of lending money to applic
 
 _ **Risk Identification:** The primary goal is to identify key factors or driver variables that suggest if a client might struggle with repayment.
 
-_ **Data Imbalance and Anomalies:** The analysis includes checking for missing data, outliers, and imbalanced classes (e.g., comparing clients with payment difficulties versus those without).
+- **Data Imbalance and Anomalies:** The analysis includes checking for missing data, outliers, and imbalanced classes (e.g., comparing clients with payment difficulties versus those without).
 
-_ **Correlation Analysis:** By segmenting the dataset based on payment performance, the project seeks to pinpoint the strongest correlations among consumer and loan attributes.
+- **Correlation Analysis:** By segmenting the dataset based on payment performance, the project seeks to pinpoint the strongest correlations among consumer and loan attributes.
 
-_ **Actionable Insights:** Ultimately, the findings will help the finance company refine its risk assessment process—whether that means denying a loan, reducing the loan amount, or adjusting interest rates for riskier applicants.
+- **Actionable Insights:** Ultimately, the findings will help the finance company refine its risk assessment process—whether that means denying a loan, reducing the loan amount, or adjusting interest rates for riskier applicants.
 
 
 # Data Overview
