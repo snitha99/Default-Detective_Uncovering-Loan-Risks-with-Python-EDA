@@ -11,7 +11,7 @@ Loan-providing companies often struggle with the risk of lending money to applic
 
 # Project Objectives
 
-_ **Risk Identification:** The primary goal is to identify key factors or driver variables that suggest if a client might struggle with repayment.
+- **Risk Identification:** The primary goal is to identify key factors or driver variables that suggest if a client might struggle with repayment.
 
 - **Data Imbalance and Anomalies:** The analysis includes checking for missing data, outliers, and imbalanced classes (e.g., comparing clients with payment difficulties versus those without).
 
